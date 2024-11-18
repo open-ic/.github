@@ -1,4 +1,4 @@
-## Hi there 👋
+## Open Source IC design EDA tools and Chips
 
 <!--
 
